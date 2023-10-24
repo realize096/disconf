@@ -40,7 +40,7 @@
         <source.version>1.7</source.version>
         <target.version>1.7</target.version>
         <spring.version>4.3.26.RELEASE</spring.version>
-        <spring.amqp.version>1.4.5.RELEASE</spring.amqp.version>
+        <spring.amqp.version>2.4.14</spring.amqp.version>
         <junit.version>4.13.1</junit.version>
         <jsp.version>2.0</jsp.version>
         <servlet.version>2.5</servlet.version>
